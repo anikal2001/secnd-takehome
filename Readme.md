@@ -14,8 +14,8 @@ Develop a **"Virtual Wardrobe" feature** for our second-hand fashion app using *
      - The item’s category (e.g., shirt, pants, dress)
    - Include sorting options (by category, purchase date, brand) using a segmented control or picker.
 
-2. **Search Functionality:**
-   - Add a search bar at the top to allow users to search for items by name or category, with real-time filtering of results in the wardrobe list.
+2. **Filter Bar:**
+   - Add a Horizontal Scrollable Filter Bar at the top to allow users to filter for items by Category, Brand, Size, Color, Price, and Condition. With each button toggling a dropdown (that goes over the existing content) with the respective filters. Please see following Figma link for inspiration: https://www.figma.com/design/oDpzYbov2BNirt99QiX3UA/Filter-Bar?node-id=0-1&t=uP8yeMWu3Nus74EV-1
 
 3. **Add to Wardrobe:**
    - Create a form where users can manually add items to their wardrobe. Fields should include:
